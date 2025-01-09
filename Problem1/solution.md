@@ -1,4 +1,4 @@
-# Approach 1: Brute Force - Merging Arrays of Objects by ID
+# Approach : Brute Force - Merging Arrays of Objects by ID
 
 ## Description
 
